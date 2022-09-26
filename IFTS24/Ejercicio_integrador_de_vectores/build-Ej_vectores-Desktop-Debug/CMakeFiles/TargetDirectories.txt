@@ -1,0 +1,3 @@
+/home/martin/Escritorio/CplusPlus/IFTS24/Ejercicio_integrador_de_vectores/build-Ej_vectores-Desktop-Debug/CMakeFiles/Ej_vectores.dir
+/home/martin/Escritorio/CplusPlus/IFTS24/Ejercicio_integrador_de_vectores/build-Ej_vectores-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/martin/Escritorio/CplusPlus/IFTS24/Ejercicio_integrador_de_vectores/build-Ej_vectores-Desktop-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/home/martin/Escritorio/CplusPlus/QT/build-QT6-Hola_Mundo-Desktop-Debug/CMakeFiles/QT6-Hola_Mundo.dir
+/home/martin/Escritorio/CplusPlus/QT/build-QT6-Hola_Mundo-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/martin/Escritorio/CplusPlus/QT/build-QT6-Hola_Mundo-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/martin/Escritorio/CplusPlus/QT/build-QT6-Hola_Mundo-Desktop-Debug/CMakeFiles/QT6-Hola_Mundo_autogen.dir

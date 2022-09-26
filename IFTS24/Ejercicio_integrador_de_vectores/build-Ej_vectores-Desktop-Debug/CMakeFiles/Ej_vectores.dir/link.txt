@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Ej_vectores.dir/main.cpp.o -o Ej_vectores 

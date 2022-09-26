@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/QT6-Hola_Mundo.dir/QT6-Hola_Mundo_autogen/mocs_compilation.cpp.o CMakeFiles/QT6-Hola_Mundo.dir/main.cpp.o -o QT6-Hola_Mundo  /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.2.4 

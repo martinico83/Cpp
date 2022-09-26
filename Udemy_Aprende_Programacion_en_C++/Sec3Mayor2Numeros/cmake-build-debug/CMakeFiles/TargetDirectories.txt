@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/CplusPlus/Sec3Mayor2Numeros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/CplusPlus/Sec3Mayor2Numeros/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/CplusPlus/Sec3Mayor2Numeros/cmake-build-debug/CMakeFiles/Sec3Mayor2Numeros.dir

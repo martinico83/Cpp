@@ -1,0 +1,3 @@
+/home/martin/Escritorio/Programacion/QTCreator/Vector/build-Vector-Desktop-Debug/CMakeFiles/Vector.dir
+/home/martin/Escritorio/Programacion/QTCreator/Vector/build-Vector-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/martin/Escritorio/Programacion/QTCreator/Vector/build-Vector-Desktop-Debug/CMakeFiles/rebuild_cache.dir

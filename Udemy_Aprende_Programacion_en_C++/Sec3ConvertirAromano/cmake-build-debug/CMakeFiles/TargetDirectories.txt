@@ -1,0 +1,3 @@
+/home/martin/Escritorio/CplusPlus/Sec3ConvertirAromano/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/martin/Escritorio/CplusPlus/Sec3ConvertirAromano/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/martin/Escritorio/CplusPlus/Sec3ConvertirAromano/cmake-build-debug/CMakeFiles/Sec3ConvertirAromano.dir
