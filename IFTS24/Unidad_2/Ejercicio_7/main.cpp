@@ -7,7 +7,11 @@ mostrar por pantalla la multiplicación de los valores de cada vector EJ: cout<<
 using namespace std;
 
 int main()
-{
-    cout << "Hello World!" << endl;
+{    
+    int vec1[] = {3,4,5,9,7};
+    int vec2[] = {1,2,8,7,6};
+    for(int i = 0; i < 5; i++){
+        cout << "( Vector1["<< i <<"]"<< " = "<< vec1[i]<< ") X "<< "( Vector2["<< i <<"]"<< " = "<< vec2[i]<< ") = " << vec1[i] * vec2[i]<< endl;
+    }
     return 0;
 }
