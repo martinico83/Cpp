@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9488549d2ff2aa56c306.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ej_3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej_3-Debug-030dc72a1db27c80a2d3.json",
+					"name" : "Ej_3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/El_fi/OneDrive/Escritorio/Cpp/IFTS24/Unidad_3/Ej_3/build-Ej_3-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/El_fi/OneDrive/Escritorio/Cpp/IFTS24/Unidad_3/Ej_3/Ej_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
