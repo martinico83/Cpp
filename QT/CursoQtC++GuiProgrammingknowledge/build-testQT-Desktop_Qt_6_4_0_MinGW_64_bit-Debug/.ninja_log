@@ -1,0 +1,9 @@
+# ninja log v5
+5	10941	6899889335320764	testQT_autogen/timestamp	d73c9c4a60e35414
+5	10941	6899889335320764	testQT_autogen/mocs_compilation.cpp	d73c9c4a60e35414
+5	10941	6899889335320764	C:/Users/El_fi/OneDrive/Escritorio/Cpp/QT/CursoQtC++GuiProgrammingknowledge/build-testQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/testQT_autogen/timestamp	d73c9c4a60e35414
+5	10941	6899889335320764	C:/Users/El_fi/OneDrive/Escritorio/Cpp/QT/CursoQtC++GuiProgrammingknowledge/build-testQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/testQT_autogen/mocs_compilation.cpp	d73c9c4a60e35414
+11048	24960	6899889494486640	CMakeFiles/testQT.dir/testQT_autogen/mocs_compilation.cpp.obj	b7e53c4fe71b6da7
+11054	25134	6899889494756428	CMakeFiles/testQT.dir/main.cpp.obj	9501be2e3d3b2601
+11060	27033	6899889515191885	CMakeFiles/testQT.dir/mainwindow.cpp.obj	8cf958f430f659ea
+27034	35010	6899889595102682	testQT.exe	a138d3271e5a59eb

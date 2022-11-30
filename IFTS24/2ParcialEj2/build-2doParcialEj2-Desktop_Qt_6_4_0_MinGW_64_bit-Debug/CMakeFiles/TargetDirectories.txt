@@ -1,0 +1,7 @@
+C:/Users/El_fi/OneDrive/Escritorio/Cpp/IFTS24/2ParcialEj2/build-2doParcialEj2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/2doParcialEj2.dir
+C:/Users/El_fi/OneDrive/Escritorio/Cpp/IFTS24/2ParcialEj2/build-2doParcialEj2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/El_fi/OneDrive/Escritorio/Cpp/IFTS24/2ParcialEj2/build-2doParcialEj2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/El_fi/OneDrive/Escritorio/Cpp/IFTS24/2ParcialEj2/build-2doParcialEj2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/El_fi/OneDrive/Escritorio/Cpp/IFTS24/2ParcialEj2/build-2doParcialEj2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/El_fi/OneDrive/Escritorio/Cpp/IFTS24/2ParcialEj2/build-2doParcialEj2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/El_fi/OneDrive/Escritorio/Cpp/IFTS24/2ParcialEj2/build-2doParcialEj2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir

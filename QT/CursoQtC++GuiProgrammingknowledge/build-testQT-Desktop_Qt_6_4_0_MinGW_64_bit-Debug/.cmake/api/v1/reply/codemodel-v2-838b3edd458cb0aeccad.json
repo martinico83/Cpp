@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-27638ac4066bc8205ac0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "testQT",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "testQT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testQT-Debug-155af7175698bded7436.json",
+					"name" : "testQT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testQT_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testQT_autogen-Debug-e2c3131bffe10a8e6dea.json",
+					"name" : "testQT_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testQT_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testQT_autogen_timestamp_deps-Debug-aea24a70cb61ac43deb7.json",
+					"name" : "testQT_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/El_fi/OneDrive/Escritorio/Cpp/QT/CursoQtC++GuiProgrammingknowledge/build-testQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/El_fi/OneDrive/Escritorio/Cpp/QT/CursoQtC++GuiProgrammingknowledge/testQT"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
